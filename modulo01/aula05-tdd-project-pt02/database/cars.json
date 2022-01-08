@@ -1,0 +1,23 @@
+[
+    {
+        "id": "85680f41-d442-4135-87c2-a05cc5a1c71a",
+        "name": "A4",
+        "releaseYear": 2021,
+        "avaliable": true,
+        "gasAvaliable": true
+    },
+    {
+        "id": "b5472811-2632-48c9-9ed8-3f6be39e3072",
+        "name": "XC90",
+        "releaseYear": 2021,
+        "avaliable": true,
+        "gasAvaliable": true
+    },
+    {
+        "id": "e6105abe-0c5e-4da7-8cc9-957d024d4c5c",
+        "name": "Charger",
+        "releaseYear": 2021,
+        "avaliable": true,
+        "gasAvaliable": true
+    }
+]

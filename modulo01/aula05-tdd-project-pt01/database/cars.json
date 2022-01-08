@@ -1,0 +1,23 @@
+[
+    {
+        "id": "c9e9ca36-a611-4448-9812-4e99732851de",
+        "name": "Colorado",
+        "releaseYear": 2021,
+        "avaliable": true,
+        "gasAvaliable": true
+    },
+    {
+        "id": "f339d780-3653-4c0e-a98a-f19c54bac5cf",
+        "name": "Mustang",
+        "releaseYear": 2021,
+        "avaliable": true,
+        "gasAvaliable": true
+    },
+    {
+        "id": "ac916587-c5b3-4159-9719-1a83451ac4e1",
+        "name": "Fortwo",
+        "releaseYear": 2021,
+        "avaliable": true,
+        "gasAvaliable": true
+    }
+]
