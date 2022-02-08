@@ -1,0 +1,24 @@
+{
+  "name": "@weslleyshavo/codegen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "codegen": "./src/index.js"
+  },
+  "scripts": {
+    "start": "NODE_ENV=dev node src/index.js skeleton -c product -c person -c colors",
+    "test": "NODE_OPTIONS=--experimental-vm-modules npx jest --runInBand --no-cache --watch --config jest.config.js",
+    "test:cov": "NODE_OPTIONS=--experimental-vm-modules npx jest --config jest.config.js --coverage"
+  },
+  "keywords": [],
+  "author": "weslleyshavo",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  },
+  "dependencies": {
+    "yargs": "^17.3.1"
+  }
+}
